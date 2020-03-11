@@ -1,5 +1,8 @@
 git hub test
 add 2
 add 2
+<<<<<<< HEAD
 add 3
 add 4
+=======
+>>>>>>> parent of 3f47a24... 내용추가3
